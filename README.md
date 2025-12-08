@@ -1,4 +1,5 @@
 Proyecto Final Minería de Datos, Semestre 2 2025, ITAM
+--
 
 Alejandro Carregha García
 
@@ -6,7 +7,7 @@ Eduardo Antonio Don Pablo Durán
 
 Jose Salvador Abascal León
 
-
+--
 
 Hola Saúl! Aquí está nuestro proyecto final.
 
